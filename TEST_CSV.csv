@@ -1,0 +1,6 @@
+old_email,old_password,new_email,new_password
+john.doe@example.com,OldPass123!,john.doe@newmail.com,NewPass456!
+jane.smith@example.com,Password789$,jane.smith@newmail.com,SecurePass01#
+michael.jones@example.com,MikeJ@2023,michael.jones@newmail.com,StrongPass99$
+emily.watson@example.com,Watson$Pass,emily.watson@newmail.com,Em1lyN3wP@ss
+daniel.brown@example.com,Brownie#77,daniel.brown@newmail.com,DanNewP@ss123
